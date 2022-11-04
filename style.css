@@ -1,0 +1,29 @@
+
+
+#title{
+   
+    text-align: center;
+}
+
+#img-div{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+#image{
+    max-width: 100%;
+    height: auto;
+}
+
+#tribute-info{
+    text-align: center;
+}
+
+#text-link{
+    text-align: center;
+}
+
+#dates{
+    text-align: center;
+}
